@@ -7,6 +7,8 @@
 
 ## Executive Overview
 
+[**Elevator pitch**](https://docs.google.com/presentation/d/1shMFkwEGbdpZ18kfwikpboHs-52Rnptu/edit?usp=drive_link&ouid=108946103952858474687&rtpof=true&sd=true)
+
 **Circular Waste Hub** is a digital resource-exchange platform created for the **THRIVE Hackathon**. It directly addresses urban, commercial, and agricultural waste challenges by establishing a decentralized waste-to-resource exchange system.
 
 Rather than sending recyclable and organic byproducts directly to municipal landfills, **Circular Waste Hub** operates as a dynamic matching ecosystem. It enables commercial businesses, market vendors, and institutions to offload waste efficiently while supplying local recyclers, livestock farmers, and creative builders with low-cost raw materials.
