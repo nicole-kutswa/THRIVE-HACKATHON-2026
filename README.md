@@ -1,5 +1,5 @@
 # Thrive Hackathon 2026 Kenyatta University
-# Project: Circular Waste Hub
+## Project: Circular Waste Hub
 
 > *Developing a sustainable circular economy by matching local waste generators with regional recyclers, agricultural producers, and upcycling artisans.*
 
