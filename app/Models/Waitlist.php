@@ -1,0 +1,19 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Waitlist extends Model
+{
+    use HasFactory;
+
+    protected $table = 'waitlist';
+
+    protected $fillable = [
+        'phone',
+        'role',
+        'ip_address',
+    ];
+}
